@@ -1,0 +1,12 @@
+{
+  "DATABASE": {
+    "NAME": "node_boilerplate",
+    "USER": "root",
+    "PASSWORD": "0000",
+    "DIALECT": "mysql",
+    "HOST": '127.0.0.1'
+
+  }
+
+
+}
